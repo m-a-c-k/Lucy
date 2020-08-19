@@ -1,4 +1,4 @@
-## Welcome to Lucy Rialta's Page!
+## Welcome to Lucy the Rialta's Page!
 You can use the [editor on GitHub](https://github.com/m-a-c-k/Lucy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
